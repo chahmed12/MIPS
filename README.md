@@ -13,7 +13,7 @@ Un petit jeu interactif codé en assembleur MIPS où l'utilisateur doit deviner 
 
 ##  Fichier
 
-- `guessing_game.asm`
+- `jeu.asm`
 
 ##  Exécution (QtSPIM / MARS)
 
@@ -43,7 +43,7 @@ L’automate accepte **toute chaîne binaire** (composée de `0` et `1`) ayant u
 
 ## Fichier
 
-- `dfa_even_zeros.asm`
+- `dfa.asm`
 
 ##  Exécution (QtSPIM / MARS)
 
